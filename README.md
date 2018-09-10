@@ -5,6 +5,8 @@
 <br/>
 <b>=> Folders/Files to be dominantly operated upon- client/src/components and modify App.js accordingly. </b>
 <br/>
+<hr>
+<br/>
 To run this App:
 
 
