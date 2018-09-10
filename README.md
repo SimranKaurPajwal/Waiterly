@@ -15,9 +15,7 @@ To run this App:
 1. cd waiterly
 2. cd client
 3. npm install
-<br/>
-  3.a. npm install bootstrap
-  <br/>
+  3.a. npm install bootstrap  <br/>
   3.b. npm i reactstrap <br/>
   3.c. npm i jquery@1.9.1 <br/>
 4. npm run build <br/>
