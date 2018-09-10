@@ -8,7 +8,8 @@
 <hr>
 <br/>
 To run this App:
-
+<br/>
+<br/>
 
 0. git clone https://github.com/techquee/Waiterly.git
 1. cd client
